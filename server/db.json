@@ -1,0 +1,21 @@
+{
+  "node": [{
+    "id": "1",
+    "position": {
+      "x": 12,
+      "y": 15
+    },
+    "type":"Task",
+    "data":"123"
+  }],
+  "data": [{
+    "id":"12",
+    "name": "data 1",
+    "description": "description 1"
+  }],
+  "edges": [{
+    "id": "1",
+    "source":"idTask1",
+    "target":"idTask2"
+  }]
+}
